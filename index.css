@@ -1,0 +1,14 @@
+main {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+button {
+    margin-top: 20px;
+    background-color: rgb(163, 173, 168);
+    width: 130px;
+    height: 48px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
